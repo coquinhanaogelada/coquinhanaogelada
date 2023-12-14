@@ -54,7 +54,7 @@
 
 <p align="center">
   <img
-    src="https://profile-counter.glitch.me/Enuch/count.svg"
+    src="https://profile-counter.glitch.me/coquinhanaogelada/count.svg"
     alt="Ilustração do número de visitantes no perfil"
   />
 </p>
