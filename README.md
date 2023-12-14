@@ -42,13 +42,11 @@
 
 <br> <br>
 
-<div align="center">
-  <a href="https://github.com/coquinhanaogelada">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=coquinhanaogelada&show_icons=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coquinhanaogelada&layout=compact"/> 
-</div>
+  [![Enuch GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=coquinhanaogelada\&show_icons=true\&theme=light#gh-dark-mode-only)](https://github.com/coquinhanaogelada/github-readme-stats#responsive-card-theme#gh-dark-mode-only)
+  [![Enuch GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=coquinhanaogelada\&show_icons=true\&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#responsive-card-theme#gh-light-mode-only)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coquinhanaogelada)](https://github.com/coquinhanaogelada/github-readme-stats)
   
- <div align="center">
+<div align="center">
   <h3><b>Profile Visitor Count</b></h3>
 </div>
 
