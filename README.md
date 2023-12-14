@@ -10,7 +10,7 @@
 
   Atualmente estou estudando Python e busco me especializar nessa linguagem e sua stack. Já tenho projetos feitos durante o curso e pessoais.
 
-  Aspirante a Especialista em Python para desenvolvimento e analise/engenheiro de dados.
+  Aspirante a Especialista em Python para desenvolvimento e analise/engenhearia/ciência de dados.
 </p>
 
 <h2>
