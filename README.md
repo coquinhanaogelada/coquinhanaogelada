@@ -37,14 +37,14 @@
 <a href="https://wa.me/+5584991891020" title="WhatsApp" target="_blank">
 <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
 
-<a href="https://www.instagram.com/coquinhanaogelada/" title="Instagram" target="_blank">
+<a href="https://www.instagram.com/enuchsa/" title="Instagram" target="_blank">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 
 <br> <br>
 
-  [![Enuch GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=coquinhanaogelada\&show_icons=true\&theme=light#gh-dark-mode-only)](https://github.com/coquinhanaogelada/github-readme-stats#responsive-card-theme#gh-dark-mode-only)
-  [![Enuch GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=coquinhanaogelada\&show_icons=true\&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#responsive-card-theme#gh-light-mode-only)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coquinhanaogelada)](https://github.com/coquinhanaogelada/github-readme-stats)
+  [![Enuch GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=enuchsa\&show_icons=true\&theme=light#gh-dark-mode-only)](https://github.com/enuchsa/github-readme-stats#responsive-card-theme#gh-dark-mode-only)
+  [![Enuch GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=enuchsa\&show_icons=true\&theme=default#gh-light-mode-only)](https://github.com/enuchsa/github-readme-stats#responsive-card-theme#gh-light-mode-only)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enuchsa)](https://github.com/enuchsa/github-readme-stats)
   
 <div align="center">
   <h3><b>Profile Visitor Count</b></h3>
