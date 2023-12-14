@@ -43,9 +43,9 @@
 <br> <br>
 
 <div align="center">
-  <a href="https://github.com/Enuch">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Enuch&show_icons=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enuch&layout=compact"/> 
+  <a href="https://github.com/coquinhanaogelada">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=coquinhanaogelada&show_icons=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coquinhanaogelada&layout=compact"/> 
 </div>
   
  <div align="center">
