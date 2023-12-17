@@ -9,8 +9,6 @@
   Tenho mais de dois anos de experiência com desenvolvimento de sistemas web utilizando a linguagem Java e seu framework Spring.
 
   Atualmente estou estudando Python e busco me especializar para desenvolvimento e analise/engenhearia/ciência de dados.
-
-  Também estou estudando desenvolvimento mobile com Flutter.
 </p>
 
 <h2>
