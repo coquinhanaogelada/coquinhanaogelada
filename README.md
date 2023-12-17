@@ -11,6 +11,9 @@
   Atualmente estou estudando Python e back-end.
   
   Busco me especializar para desenvolvimento e analise/engenhearia/ciência de dados.
+
+
+  
 </p>
 
 <h2>
