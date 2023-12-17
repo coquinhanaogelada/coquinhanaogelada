@@ -8,7 +8,9 @@
   Graduado em Tecnologia em Análise e Desenvolvimento de Sistemas (TADS) pela Universidade Federal do Rio Grande do Norte (UFRN).
   Tenho mais de dois anos de experiência com desenvolvimento de sistemas web utilizando a linguagem Java e seu framework Spring.
 
-  Atualmente estou estudando Python e busco me especializar para desenvolvimento e analise/engenhearia/ciência de dados.
+  Atualmente estou estudando Python e back-end.
+  
+  Busco me especializar para desenvolvimento e analise/engenhearia/ciência de dados.
 </p>
 
 <h2>
