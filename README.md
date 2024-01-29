@@ -11,7 +11,7 @@
 
   Atualmente estou estudando Python e back-end.
   
-  Busco me especializar para desenvolvimento e analise/engenhearia/ciência de dados.
+  Busco me especializar para desenvolvimento e analise de dados e engenharia de software (talvez só um, depende de como minha carreira fluir).
 
   Profissionalmente já trabalhei durante dois anos como desenvolvedor de sistemas web, aqui vão algumas das áreas que já utilizo ou utilizei:
   APIs, Banco de dados, Monolitos, Sistemas web, landing pages, back-end (regras de negócio, midlewares) e front-end (interfaces e design).
