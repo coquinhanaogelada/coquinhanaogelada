@@ -1,18 +1,22 @@
-## Oláá, sou <strong>Enuch!</strong> 👨‍💻
+## Bem vindo ao meu Github
+### Aqui eu guardo meus projetos entre várias outras coisas 👨‍💻
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p>
-  Sou brasileiro, tenho 25 anos e sou <strong>Desenvolvedor Python</strong>
+  Sou brasileiro, tenho 25 anos e sou <strong>Software Developer</strong>
   
   Graduado em Tecnologia em Análise e Desenvolvimento de Sistemas (TADS) pela Universidade Federal do Rio Grande do Norte (UFRN).
-  Tenho mais de dois anos de experiência com desenvolvimento de sistemas web utilizando a linguagem Java e seu framework Spring.
+  Tenho mais de dois anos de experiência com desenvolvimento de sistemas e, mexo com desenvolvimento há 4 anos, fazendo projetos pessoais e os feitos durante minha faculdade.
 
   Atualmente estou estudando Python e back-end.
   
   Busco me especializar para desenvolvimento e analise/engenhearia/ciência de dados.
 
+  Profissionalmente já trabalhei durante dois anos como desenvolvedor de sistemas web, aqui vão algumas das áreas que já utilizo ou utilizei:
+  APIs, Banco de dados, Monolitos, Sistemas web, landing pages, back-end (regras de negócio, midlewares) e front-end (interfaces e design).
 
+  Apesar das tecnologias abaixo, por enquanto só terei projetos em django, python e um pouco de react neste repositório, pois são as tecnologias que estou querendo me aprofundar no momento.
   
 </p>
 
@@ -36,12 +40,6 @@
 
 <a href="https://www.linkedin.com/in/enuchsa/" title="LinkedIn" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-
-<a href="https://wa.me/+5584991891020" title="WhatsApp" target="_blank">
-<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
-
-<a href="https://www.instagram.com/enuchsa/" title="Instagram" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 
 <br> <br>
 
