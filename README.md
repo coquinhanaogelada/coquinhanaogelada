@@ -7,7 +7,7 @@
   Sou brasileiro, tenho 25 anos e sou <strong>Software Developer</strong>
   
   Graduado em Tecnologia em Análise e Desenvolvimento de Sistemas (TADS) pela Universidade Federal do Rio Grande do Norte (UFRN).
-  Tenho mais de dois anos de experiência com desenvolvimento de sistemas e, mexo com desenvolvimento há 4 anos, fazendo projetos pessoais e os feitos durante minha faculdade.
+  Tenho mais de dois anos de experiência com desenvolvimento de sistemas e, mexo com desenvolvimento há quatro anos, fazendo projetos pessoais e os feitos durante minha faculdade.
 
   Profissionalmente já trabalhei durante dois anos como desenvolvedor de sistemas web, aqui vão algumas das áreas que já utilizo ou utilizei:
   APIs, Banco de dados, Monolitos, Sistemas web, landing pages, back-end (regras de negócio, midlewares) e front-end (interfaces e design).
