@@ -28,6 +28,7 @@ Here you'll find some projects focused in the following technologies
 - AWS
 
 <hr>
+
   [![Enuch GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=enuchsa\&show_icons=true\&theme=default#gh-light-mode-only)](https://github.com/enuchsa/github-readme-stats#responsive-card-theme#gh-light-mode-only)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enuchsa&layout=compact)](https://github.com/enuchsa/github-readme-stats)
   
