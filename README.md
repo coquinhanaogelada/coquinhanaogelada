@@ -1,53 +1,31 @@
-## Bem vindo ao meu Github
-### Aqui eu guardo meus projetos entre várias outras coisas 👨‍💻
+`System.out.println("Hello, i'm Enuch Santos 😁")`
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+<hr>
 
-<p>
-  Sou brasileiro, tenho 25 anos e sou <strong>Software Developer</strong>
-  
-  Graduado em Tecnologia em Análise e Desenvolvimento de Sistemas (TADS) pela Universidade Federal do Rio Grande do Norte (UFRN).
-  Tenho mais de dois anos de experiência com desenvolvimento de sistemas e, mexo com desenvolvimento há quatro anos, fazendo projetos pessoais e os feitos durante minha faculdade.
+<p>🎓 Graduated in Systems Analysis and Development at <a href="https://www.ufrn.br">Universidade Federal do Rio Grande do Norte</a> </p>
+<p>👨‍💻 Java Software Engineer </p>
+<p>📚 Studying AWS and Devops </p>
 
-  Profissionalmente já trabalhei durante dois anos como desenvolvedor de sistemas web, aqui vão algumas das áreas que já utilizo ou utilizei:
-  APIs, Banco de dados, Monolitos, Sistemas web, landing pages, back-end (regras de negócio, midlewares) e front-end (interfaces e design).
-  
-</p>
+<hr>
 
-<h2>
-  🌈 Tecnologias
-</h2>
+### 📱 Contact-me
+<a href="https://www.linkedin.com/in/enuchsa/">LinkedIn</a>
 
-<div style="display: inline_block">
-  <img align="center" alt="Python" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"">
-  <img align="center" alt="Django" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg">
-  <img align="center" alt="Flask" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" />
-  <img align="center" alt="Pytest" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original-wordmark.svg">
-  <img align="center" alt="Java" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-  <img align="center" alt="Spring" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />
-  <img align="center" alt="Postgres" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-</div><br>
- 
-<p align="left">
-  💌 Sinta-se a vontade para entrar em contato ⤵️
-</p>
+<hr>
 
-<a href="https://www.linkedin.com/in/enuchsa/" title="LinkedIn" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+[![My Skills](https://skillicons.dev/icons?i=java,python,spring,react,idea,aws,kafka,docker,maven,postgres,mongo&perline=11)](https://skillicons.dev)
 
-<br> <br>
+Here you'll find some projects focused in the following technologies
+- Java
+- Python
+- Spring Boot (Web, Data JPA, Security)
+- Microservices
+- Relational and Non-Relational Databases (PostgreSQL, MySQL, MongoDB)
+- Docker
+- Kafka
+- AWS
 
-  [![Enuch GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=enuchsa\&show_icons=true\&theme=light#gh-dark-mode-only)](https://github.com/enuchsa/github-readme-stats#responsive-card-theme#gh-dark-mode-only)
+<hr>
   [![Enuch GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=enuchsa\&show_icons=true\&theme=default#gh-light-mode-only)](https://github.com/enuchsa/github-readme-stats#responsive-card-theme#gh-light-mode-only)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enuchsa&layout=compact)](https://github.com/enuchsa/github-readme-stats)
   
-<div align="center">
-  <h3><b>Profile Visitor Count</b></h3>
-</div>
-
-<p align="center">
-  <img
-    src="https://profile-counter.glitch.me/coquinhanaogelada/count.svg"
-    alt="Ilustração do número de visitantes no perfil"
-  />
-</p>
