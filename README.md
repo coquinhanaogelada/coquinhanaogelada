@@ -10,9 +10,9 @@
 
 <hr>
 
-### 📱 Contact-me
-<a href="https://www.linkedin.com/in/enuchsa/">LinkedIn</a>
-
+### 📱 Social Network
+<a href="https://www.linkedin.com/in/enuchsa/">LinkedIn</a> &nbsp;&nbsp;
+<a href="mailto:enuchsa@gmail.com">E-mail</a>
 <hr>
 
 [![My Skills](https://skillicons.dev/icons?i=java,python,spring,react,idea,aws,kafka,docker,maven,postgres,mongo&perline=11)](https://skillicons.dev)
