@@ -3,10 +3,10 @@
 <hr>
 
 <p>🎓 Graduated in Systems Analysis and Development at <a href="https://www.ufrn.br">Universidade Federal do Rio Grande do Norte</a> </p>
-<p>👨‍💻 Java Software Engineer </p>
+<p>👨‍💻 Software Engineer </p>
 <p>📚 Studying AWS and English </p>
 <p>🔠 B1 Intermediate English Level</p>
-<p>⏳ Two years of experience</p>
+<p>⏳ Three years of experience</p>
 
 <hr>
 
